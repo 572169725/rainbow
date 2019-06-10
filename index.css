@@ -60,21 +60,21 @@ html,body {
   height: 220px;
   box-shadow: inset 0px 0px 0px 10px blue;
   clip: rect(0px, 220px, 110px, 0px);
-  animation-delay: 1.8s;
+  animation-delay: 1.5s;
 }
 .indigo {
   width: 180px;
   height: 180px;
   box-shadow: inset 0px 0px 0px 10px indigo;
   clip: rect(0px, 180px, 90px, 0px);
-  animation-delay: 1.7s;
+  animation-delay: 1.6s;
 }
 .violet {
   width: 200px;
   height: 200px;
   box-shadow: inset 0px 0px 0px 10px violet;
   clip: rect(0px, 200px, 100px, 0px);
-  animation-delay: 1.6s;
+  animation-delay: 1.7s;
 }
 
 
